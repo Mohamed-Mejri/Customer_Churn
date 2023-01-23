@@ -1,0 +1,9 @@
+scikit-learn==1.2.0
+shap==0.41.0
+joblib==1.2.0
+pandas==1.5.2
+numpy==1.23.5
+matplotlib==3.6.2
+seaborn==0.12.2
+pylint==2.15.10
+autopep8==2.01
